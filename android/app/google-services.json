@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611544526698",
+    "firebase_url": "https://comsnaps.firebaseio.com",
+    "project_id": "comsnaps",
+    "storage_bucket": "comsnaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611544526698:android:0cd61fb7a2ef172a8ebf13",
+        "android_client_info": {
+          "package_name": "com.example.com_snaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611544526698-8868pr2r0ttc278u4mo6bpio6lk2oqd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60Pe53L-Y_sbOxEHzgyFfJL0Hz90CvLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611544526698-8868pr2r0ttc278u4mo6bpio6lk2oqd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
